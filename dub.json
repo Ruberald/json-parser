@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"heinrichskies"
+	],
+	"copyright": "Copyright © 2024, heinrichskies",
+	"description": "A simple JSON parser in D",
+	"license": "MIT",
+	"name": "json-parser"
+}

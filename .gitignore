@@ -1,0 +1,17 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/json-parser
+json-parser.so
+json-parser.dylib
+json-parser.dll
+json-parser.a
+json-parser.lib
+json-parser-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
+sample.json
